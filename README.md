@@ -8,26 +8,31 @@ The purpose of the analysis was to determine the best predictive model to levera
     * Accuracy: 51%
     * High Risk Precision: 100%
     * High Risk Sensitivity: 1%
+  <p> </p>
 ![alt text](https://github.com/griswld2/Credit_Risk_Analysis/blob/main/images/smote_sampling.PNG)
 * Smote Oversampling Results:
     * Accuracy: 68%
     * High Risk Precision: 1%
     * High Risk Sensitivity: 67%
+    <p> </p>
 ![alt text](https://github.com/griswld2/Credit_Risk_Analysis/blob/main/images/undersampling.PNG)
 * Undersampling (ClusterCentroid) Results:
     * Accuracy: 68%
     * High Risk Precision: 1%
     * High Risk Sensitivity: 60%
+  <p> </p>
  ![alt text](https://github.com/griswld2/Credit_Risk_Analysis/blob/main/images/combo_Sampling.PNG)
 * Combination (Over and Under) Sampling Results:
     * Accuracy: 52%
     * High Risk Precision: 1%
     * High Risk Sensitivity: 70%
+    <p> </p>
 ![alt text](https://github.com/griswld2/Credit_Risk_Analysis/blob/main/images/balanced_forest.PNG)
 * Balanced Random Forest Results:
     * Accuracy: 80.2%
     * High Risk Precision: 4%
     * High Risk Sensitivity: 69%
+    <p> </p>
 ![alt text](https://github.com/griswld2/Credit_Risk_Analysis/blob/main/images/eec_sampling.PNG)
 * Easy Ensemble Results:
     * Accuracy: 92.5%
