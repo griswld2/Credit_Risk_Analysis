@@ -28,10 +28,10 @@ The purpose of the analysis was to determine the best predictive model to levera
     * High Risk Precision: 4%
     * High Risk Sensitivity: 69%
  
-* Easy Ensemble AdaBoostClassifier Results:
+* Easy Ensemble Results:
     * Accuracy: 92.5%
     * High Risk Precision: 7% 
     * High Risk Sensitivity: 91%
  
 ## Summary:
-Based off of the results of the different predictive models, I would recommend using the <b>Easy Ensemble AdaBoostClassifier ML Model</b>. This model has the highest level of accuracy and also has a high risk sensitivity. Although there are downfalls of not having a high precision by turning down applicants who aren't at high risk of defaulting on credit, it makes more sense to be conservative with who we are giving out lines of credit to and giving out loans in order to ensure that we are protecting our own company and our customer's ability to pay back their loans. The high sensitivity means that we will be turning down people who are true positives and false positives for high risk, which means we are protecting ourselves against credit defaults.  
+Based off of the results of the different predictive models, I would recommend using the <b>Easy Ensemble ML Model</b>. This model has the highest level of accuracy and also has a high risk sensitivity. Although there are downfalls of not having a high precision by turning down applicants who aren't at high risk of defaulting on credit, it makes more sense to be conservative with who we are giving out lines of credit to and giving out loans in order to ensure that we are protecting our own company and our customer's ability to pay back their loans. The high sensitivity means that we will be turning down people who are true positives and false positives for high risk, which means we are protecting ourselves against credit defaults.  
